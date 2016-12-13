@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "none" > /sys/class/leds/green\:ph24\:led1/trigger;
